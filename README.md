@@ -17,8 +17,8 @@
 | Lab | Python Lab: First Trial | [Repo][trial1-lab] | Short, easy week 1 lab |
 | Lab | Python Lab: Second Trial | [Repo][trial2-lab] | Short, easy week 1 lab |
 | Bonus | Python Ladder Challenge | [Repo][python-ladder] | Large set of extra base Python challenges |
-| Breakfast Hour | Submissions Setup | TBD | - |
-| Breakfast Hour | Breakfast Hour Repo Setup | TBD | - |
+| BH | Submissions Setup | TBD | - |
+| BH | Breakfast Hour Repo Setup | TBD | - |
 
 [100repo]: https://git.generalassemb.ly/dsb-main/100-lesson-installfest
 [100deck]: https://docs.google.com/presentation/d/1njgvR1w_mirvfxR9ZgXSKkq_T8B0ogI08kAu8iL9tFQ/edit#slide=id.p2
@@ -46,7 +46,7 @@
 | Lesson | 206: The Central Limit Theorem and Inference | [Repo][206repo] - [Deck][206deck] | Single repo for a two-part lesson |
 | Lab | Titanic Lab | [Repo][titanic-lab] | A little stale - would appreciate a new lab added in its place! |
 | Lab | Excel Madness Lab | [Repo][excel-lab] | - |
-| Breakfast Hour | EDA and Viz Practice | TBD | - |
+| BH | EDA and Viz Practice | TBD | - |
 
 [201repo]: https://git.generalassemb.ly/dsb-main/201-lesson-statsbomb
 [201deck]: https://docs.google.com/presentation/d/1nvSNkRgrCmMdax9vt6eEH22ru1E098noc6O6Wsz9cIg/edit#slide=id.p1
