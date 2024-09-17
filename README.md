@@ -66,12 +66,20 @@
 ## Unit 3: Machine Learning Fundamentals
 | Type | Title | Link(s) | Notes |
 | ---  | ---   | ---     | ---   |
-| Lesson | 404: Classification Metrics | [Repo][404repo] - [Deck][404deck]
-| Lesson | 405: Missing Data | [Repo][405missing-repo]
+| Lesson | 404: Classification Metrics | [Repo][404repo] - [Deck][404deck] | - |
+| Lesson | 405: Missing Data | [Repo][405missing-repo] | - |
 
 [404repo]: https://git.generalassemb.ly/dsb-main/404-lesson-classification-metrics
 [404deck]: https://docs.google.com/presentation/d/1Q3Po1i-zAZjQeqKdxqkYffP3XDm0Y24r976zN05hALQ/edit#slide=id.g1e35665ac91_0_0G
 [405missing-repo]: https://git.generalassemb.ly/dsb-main/405-lesson-missing-data
+
+## Unit 4: Advanced Machine Learning
+| Type | Title | Link(s) | Notes |
+| ---  | ---   | ---     | ---   |
+| Lesson | 604: Boosting | [Repo][604repo] - [Deck][604deck] | - |
+
+[604repo]: https://git.generalassemb.ly/dsb-main/604-lesson-boosting
+[604deck]: https://docs.google.com/presentation/d/1H1f0wfZIX5zZPi89udK_AZq0LCZxHZoTbzP2XQmDGF0/edit#slide=id.g3dd4fa9b7e_0_239
 
 ## Unit 6: Intro to Data Engineering and MLOps
 | Type | Title | Link(s) | Notes |
