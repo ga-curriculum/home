@@ -91,7 +91,12 @@
 [901sql-repo]: https://git.generalassemb.ly/dsb-main/901-902-903-sql
 [sql-deck]: https://docs.google.com/presentation/d/1qULk1QU1iMOuX02MnFEkvhF49o3Mjzwb7TLIm8CpLeY/edit
 
+## Unit X: Standalone Lessons and Activities
+| Type | Title | Link(s) | Notes |
+| ---  | ---   | ---     | ---   |
+| BH | File IO, JSONs, Pickling | [Repo][bh-file-io] | - |
 
+[bh-file-io]: https://git.generalassemb.ly/dsb-main/bh-file-io
 
 
 
