@@ -66,22 +66,114 @@
 ## Unit 3: Machine Learning Fundamentals
 | Type | Title | Link(s) | Notes |
 | ---  | ---   | ---     | ---   |
+| Lesson | 301 + 302: Linear Regression I + II | [Repo][301repo] - [Deck][301deck] | - |
+| Lesson | 303: Regression Metrics | [Repo][303repo] | - |
+| Lesson | 304: Bias/Variance Tradeoff and Holdout Techniques | [Repo][304repo] - [Deck][304deck] | - |
+| Lesson | 305: Feature Engineering | [Repo][305repo] | - |
+| Lesson | 306: Model Workflow | [Repo][306repo] | - |
+| Lab | Regression Lab | [Repo][reg-lab] | - |
+| Lab | Validation Lab | [Repo][val-lab] | - |
+| BH | Baseline Review of Linear Regression | TBD | - |
+| Lesson | 401: Classification and Logistic Regression | [Repo][401repo] - [Deck][401deck] | - |
+| Lesson | 402: k-Nearest Neighbors | [Repo][402repo] | - |
+| Lesson | 403: Regularization | [Repo][403repo] | - |
 | Lesson | 404: Classification Metrics | [Repo][404repo] - [Deck][404deck] | - |
-| Lesson | 405: Missing Data | [Repo][405missing-repo] | - |
+| Lesson | 405: Missing Data | [Repo][405missing-repo] | Optional - Slated for total revamp |
+| Lesson | 406: Gridsearching + Pipelines | [Repo][406repo] | - |
+| Lab | Classification and Regularization Lab | [Repo][class-lab] | - |
+| Lab | Classification Evaluation Lab | [Repo][class-eval-lab] | - |
 | BH | Tim's Diagram | [Repo][bh-diagram] | - |
 
+<!-- TODO: Move these over to main!!! -->
+[301repo]: ?
+[301deck]: https://docs.google.com/presentation/d/1dLyUWvzMnEgqSg3aCl0Siqoa_f2tGAZJ4vf260UpnIs/edit#slide=id.g3dd4fa9b7e_0_239
+[303repo]: ?
+[304repo]: ?
+[304deck]: https://docs.google.com/presentation/d/19crs8YEqVr6nWmWtyRMSU025H5xRtAzGT_wp9p35CTI/edit
+[305repo]: ?
+[306repo]: ?
+[reg-lab]: ?
+[val-lab]: ?
+[401repo]: ?
+[401deck]: https://docs.google.com/presentation/d/1iNpJ2HtJaiFeg10s5CebfKhvkAE78jpEJzlvs_43fN8/edit#slide=id.g3dd4fa9b7e_0_239
+[402repo]: ?
+[403repo]: ?
 [404repo]: https://git.generalassemb.ly/dsb-main/404-lesson-classification-metrics
 [404deck]: https://docs.google.com/presentation/d/1Q3Po1i-zAZjQeqKdxqkYffP3XDm0Y24r976zN05hALQ/edit#slide=id.g1e35665ac91_0_0G
 [405missing-repo]: https://git.generalassemb.ly/dsb-main/405-lesson-missing-data
+[406repo]: ?
+[class-lab]: ?
+[class-eval-lab]: ?
 [bh-diagram]: https://git.generalassemb.ly/dsb-main/bh-the-diagram
 
+<!-- TODO: Move these over to main!!! -->
 ## Unit 4: Advanced Machine Learning
+
+### Part I: NLP and Adjacent Material (Usually Week 5)
 | Type | Title | Link(s) | Notes |
 | ---  | ---   | ---     | ---   |
-| Lesson | 604: Boosting | [Repo][604repo] - [Deck][604deck] | - |
+| Lesson | 501: HTML | [Repo][501repo] - [Deck][501deck] | (Technically part of Unit 6) To be deprecated! Will probably just fold into 502 |
+| Lesson | 502: Webscraping with Beautiful Soup | [Repo][502repo] | (Technically Unit 6) |
+| Lesson | 503: APIs | [Repo][503repo] - [Deck][503deck] | (Technically Unit 6) |
+| Lesson | 504: Natural Language Processing I | [Repo][504repo] - [Deck][504deck] | - |
+| Lesson | 505: Natural Language Processing II | [Repo][505repo] | - |
+| Lesson | 506: API Creation with Flask | [Repo][506repo] - [Deck][506deck] | (Technically Unit 6) To be deprecated! Or optional |
+| Lesson | 507: Cloud Computing World Tour | [Repo][507repo] - [Deck][507deck] | (Technically Unit 6) |
+| Lesson | 508: Object-Oriented Programming | [Repo][508repo] | (Technically Unit 1) |
+| Lab | Webscraping Lab | [Repo][webscraping-lab] | - |
+| Lab | NLP EDA Lab | [Repo][nlp-lab] | - |
+| BH | .gitignores | TBD | - |
+| BH | NLP Practice | TBD | - |
 
+[501repo]: ?
+[501deck]: https://docs.google.com/presentation/d/1ZpG6nIn_0dMKeDxF7kCYETqQ4G_AYAOcmaMi3XpruGc/edit#slide=id.p1
+[502repo]: ?
+[503repo]: ?
+[503deck]: https://docs.google.com/presentation/d/11-WGzPDAmRtQ9L-XX0OMWevjYTf0VJwPpQsW8s4z5fI/edit
+[504repo]: ?
+[504deck]: ?
+[505repo]: ?
+[506repo]: ?
+[506deck]: ?
+[507repo]: ?
+[507deck]: ?
+[508repo]: ?
+[webscraping-lab]: ?
+[nlp-lab]: ?
+
+### Part II: Supervised ML (Usually Week 6)
+| Type | Title | Link(s) | Notes |
+| ---  | ---   | ---     | ---   |
+| Lesson | 601: Decision Trees with CART | [Repo][601repo] - [Deck][601deck] | - |
+| Lesson | 602: Bootstrapping and Bagging | [Repo][602repo] - [Deck][602deck] | To Soon be Merged with 603 |
+| Lesson | 603: Random Forests and Extra Trees | [Repo][603repo] - [Deck][603deck] | To Soon be Merged with 602 |
+| Lesson | 604: Boosting | [Repo][604repo] - [Deck][604deck] | Now with XGBoost! |
+| Lesson | 605: Support Vector Machines (SVMs) | [Repo][605repo] - [Deck][605deck] | - |
+| Lesson | 606: Gradient Descent | [Repo][606repo] - [Deck][606deck] | - |
+| Lesson | 607: Generalized Linear Models | [Repo][607repo] - [Deck][607deck] | (Technically Unit 3) |
+| Lab | Supervised Learning | [Repo][sup-lab] | - |
+| BH | NLP Practice II | TBD | - |
+| BH | Git Shenanigans | TBD | - |
+
+[601repo]: ?
+[601deck]: ?
+[602repo]: ?
+[602deck]: ?
+[603repo]: ?
+[603deck]: ?
 [604repo]: https://git.generalassemb.ly/dsb-main/604-lesson-boosting
 [604deck]: https://docs.google.com/presentation/d/1H1f0wfZIX5zZPi89udK_AZq0LCZxHZoTbzP2XQmDGF0/edit#slide=id.g3dd4fa9b7e_0_239
+[605repo]: ?
+[605deck]: ?
+[606repo]: ?
+[606deck]: ?
+[607repo]: ?
+[607deck]: ?
+[sup-lab]: ?
+
+### Part III: Unsupervised ML (Usually Week 7)
+| Type | Title | Link(s) | Notes |
+| ---  | ---   | ---     | ---   |
 
 ## Unit 6: Intro to Data Engineering and MLOps
 | Type | Title | Link(s) | Notes |
