@@ -71,8 +71,8 @@
 | Lesson | 304: Bias/Variance Tradeoff and Holdout Techniques | [Repo][304repo] - [Deck][304deck] | - |
 | Lesson | 305: Feature Engineering | [Repo][305repo] | - |
 | Lesson | 306: Model Workflow | [Repo][306repo] | - |
-| Lab | Regression Lab | [Repo][reg-lab] | - |
-| Lab | Validation Lab | [Repo][val-lab] | - |
+| Lab | Regression Lab | [Repo][reg-lab] | Ancient! |
+| Lab | Validation Lab | [Repo][val-lab] | Ancient! |
 | BH | Baseline Review of Linear Regression | TBD | - |
 | Lesson | 401: Classification and Logistic Regression | [Repo][401repo] - [Deck][401deck] | - |
 | Lesson | 402: k-Nearest Neighbors | [Repo][402repo] | - |
@@ -81,32 +81,30 @@
 | Lesson | 405: Missing Data | [Repo][405missing-repo] | Optional - Slated for total revamp |
 | Lesson | 406: Gridsearching + Pipelines | [Repo][406repo] | - |
 | Lab | Classification and Regularization Lab | [Repo][class-lab] | - |
-| Lab | Classification Evaluation Lab | [Repo][class-eval-lab] | - |
+| Lab | Classification Evaluation Lab | [Repo][class-eval-lab] | Old - using redundant data |
 | BH | Tim's Diagram | [Repo][bh-diagram] | - |
 
-<!-- TODO: Move these over to main!!! -->
-[301repo]: ?
+[301repo]: https://git.generalassemb.ly/dsb-main/301-302-lesson-linear-regression
 [301deck]: https://docs.google.com/presentation/d/1dLyUWvzMnEgqSg3aCl0Siqoa_f2tGAZJ4vf260UpnIs/edit#slide=id.g3dd4fa9b7e_0_239
-[303repo]: ?
-[304repo]: ?
+[303repo]: https://git.generalassemb.ly/dsb-main/303-lesson-regression-metrics
+[304repo]: https://git.generalassemb.ly/dsb-main/304-bvt-and-tts
 [304deck]: https://docs.google.com/presentation/d/19crs8YEqVr6nWmWtyRMSU025H5xRtAzGT_wp9p35CTI/edit
-[305repo]: ?
-[306repo]: ?
-[reg-lab]: ?
-[val-lab]: ?
-[401repo]: ?
+[305repo]: https://git.generalassemb.ly/dsb-main/305-lesson-feature-engineering
+[306repo]: https://git.generalassemb.ly/dsb-main/306-lesson-model-workflow
+[reg-lab]: https://git.generalassemb.ly/dsb-main/lab-linear-regression
+[val-lab]: https://git.generalassemb.ly/dsb-main/lab-regression-and-model-validation
+[401repo]: https://git.generalassemb.ly/dsb-main/401-lesson-logistic-regression
 [401deck]: https://docs.google.com/presentation/d/1iNpJ2HtJaiFeg10s5CebfKhvkAE78jpEJzlvs_43fN8/edit#slide=id.g3dd4fa9b7e_0_239
-[402repo]: ?
-[403repo]: ?
+[402repo]: https://git.generalassemb.ly/dsb-main/402-lesson-knn
+[403repo]: https://git.generalassemb.ly/dsb-main/403-lesson-regularization
 [404repo]: https://git.generalassemb.ly/dsb-main/404-lesson-classification-metrics
 [404deck]: https://docs.google.com/presentation/d/1Q3Po1i-zAZjQeqKdxqkYffP3XDm0Y24r976zN05hALQ/edit#slide=id.g1e35665ac91_0_0G
 [405missing-repo]: https://git.generalassemb.ly/dsb-main/405-lesson-missing-data
-[406repo]: ?
-[class-lab]: ?
-[class-eval-lab]: ?
+[406repo]: https://git.generalassemb.ly/dsb-main/406-lesson-gridsearch-and-pipelines
+[class-lab]: https://git.generalassemb.ly/dsb-main/401-lab-classification-and-regularization
+[class-eval-lab]: https://git.generalassemb.ly/dsb-main/lab-classification-model-evaluation
 [bh-diagram]: https://git.generalassemb.ly/dsb-main/bh-the-diagram
 
-<!-- TODO: Move these over to main!!! -->
 ## Unit 4: Advanced Machine Learning
 
 ### Part I: NLP and Adjacent Material (Usually Week 5)
@@ -174,6 +172,60 @@
 ### Part III: Unsupervised ML (Usually Week 7)
 | Type | Title | Link(s) | Notes |
 | ---  | ---   | ---     | ---   |
+| Lesson | 701: Intro to Clustering with K-Means | [Repo][701repo] | Worth redoing soon |
+| Lesson | 702: DBSCAN and Other Clustering Techniques | [Repo][702repo] - [Deck][702deck] | - |
+| Lesson | 703: Principal Components Analysis (PCA) | [Repo][703repo] - [Deck][703deck] | - |
+| Lesson | 704: Transfer Learning | [Repo][704repo] | Worth redoing or retitling |
+| Lesson | 705: Recommender Systems | [Repo][705repo] - [Deck][705deck] | Technically optional, but it's a student favorite |
+| Lesson | 706: Streamlit | [Repo][706repo] | (Technically Unit 6) |
+| Lab | K-Means Lab | [Repo][kmeans-lab] | - |
+| Lab | PCA Lab | [Repo][pca-lab] | - |
+| BH | Battle of the Clusters | TBD | - |
+| BH | Coding Challenges | TBD | - |
+
+[701repo]: ?
+[702repo]: ?
+[702deck]: ?
+[703repo]: ?
+[703deck]: ?
+[704repo]: ?
+[705repo]: ?
+[705deck]: ?
+[706repo]: ?
+
+## Unit 5: Deep Learning and Generative AI
+| Type | Title | Link(s) | Notes |
+| ---  | ---   | ---     | ---   |
+| Lesson | 801: Intro to Neural Networks | [Repo][801repo] - [Deck][801deck] | - |
+| Lesson | 802: Neural Networks and Keras | [Repo][802repo] | - |
+| Lesson | 803: Regularizin Neural Networks | [Repo][803repo] | Stale - could use a refresh |
+| Lesson | 804: Convolutional Neural Networks (CNNs) | [Repo][804repo] - [Deck][804deck] | - |
+| Lesson | 805: Recurrent Neural Networks (RNNs) | [Repo][805repo] - [Deck][805deck] | - |
+| CYOA | Additional Topics for CNNs | [Repo][cyoa-cnn] - [Deck][cyoa-cnn-deck] | - |
+| CYOA | Neural Networks for NLP | [Repo][cyoa-nn-nlp] - [Deck][cyoa-nn-nlp-deck] | - |
+| CYOA | Tensorboard | [Repo][cyoa-tb] - [Deck][cyoa-tb-deck] | - |
+| Lesson? | Leveraging Generative AI | [Deck][ai-deck] | This needs to be reworked for DSB use |
+| Lab | Applied NN Lab | TBD | Missing? Or needs to be created? |
+| Lab | NN Digit Lab | [Repo][nn-digit-lab] | Stale, needs to be replaced! Still using MNIST! |
+| BH | NN Review | TBD | - |
+| BH | NN Coding Challenges | TBD | - |
+
+[801repo]: ?
+[801deck]: ?
+[802repo]: ?
+[803repo]: ?
+[804repo]: ?
+[804deck]: ?
+[805repo]: ?
+[805deck]: ?
+[cyoa-cnn]: ?
+[cyoa-cnn-deck]: ?
+[cyoa-nn-nlp]: ?
+[cyoa-nn-nlp-deck]: ?
+[cyoa-tb]: ?
+[cyoa-tb-deck]: ?
+[ai-deck]: ?
+[nn-digit-lab]: ?
 
 ## Unit 6: Intro to Data Engineering and MLOps
 | Type | Title | Link(s) | Notes |
