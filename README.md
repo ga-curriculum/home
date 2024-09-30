@@ -178,12 +178,14 @@
 ## Unit 6: Intro to Data Engineering and MLOps
 | Type | Title | Link(s) | Notes |
 | ---  | ---   | ---     | ---   |
-| Lesson | 901: SQL I | [Repo][901sql-repo] - [Deck][sql-deck]
-| Lesson | 902: SQL II | [Repo][901sql-repo] - [Deck][sql-deck]
-| Lesson | 903: SQL III | [Repo][901sql-repo] - [Deck][sql-deck]
+| Lesson | 901: SQL I | [Repo][901sql-repo] - [Deck][sql-deck] | - |
+| Lesson | 902: SQL II | [Repo][901sql-repo] - [Deck][sql-deck] | - |
+| Lesson | 903: SQL III | [Repo][901sql-repo] - [Deck][sql-deck] | - |
+| Lab | Database Lab: Dragon Sword Brigade | [Repo][db-design-lab] | - |
 
 [901sql-repo]: https://git.generalassemb.ly/dsb-main/901-902-903-sql
 [sql-deck]: https://docs.google.com/presentation/d/1qULk1QU1iMOuX02MnFEkvhF49o3Mjzwb7TLIm8CpLeY/edit
+[db-design-lab]: https://git.generalassemb.ly/dsb-main/90X-lab-db-design
 
 ## Unit X: Standalone Lessons and Activities
 | Type | Title | Link(s) | Notes |
