@@ -248,8 +248,8 @@
 
 [901sql-repo]: https://git.generalassemb.ly/dsb-main/901-902-903-sql
 [904repo]: TBD
-[905repo]: TBD
-[905deck]: TBD
+[905repo]: https://git.generalassemb.ly/dsb-main/905-db-design
+[905deck]: https://docs.google.com/presentation/d/1ilX5sIjMAVKysrz9Fp8oqd0-MAd4u0GrPTJueWTDfz8/edit#slide=id.g3dd4fa9b7e_0_239
 [906repo]: https://git.generalassemb.ly/dsb-main/904-lesson-pyspark
 [906deck]: https://docs.google.com/presentation/d/1g53r9OlNvatlb87ZMjrz4l2h7a7q3DHSGy9A7_FSru8/edit#slide=id.g3dd4fa9b7e_0_239
 [sql-deck]: https://docs.google.com/presentation/d/1qULk1QU1iMOuX02MnFEkvhF49o3Mjzwb7TLIm8CpLeY/edit
