@@ -238,7 +238,7 @@
 | Lesson | 901: SQL I | [Repo][901sql-repo] - [Deck][sql-deck] | - |
 | Lesson | 902: SQL II | [Repo][901sql-repo] - [Deck][sql-deck] | - |
 | Lesson | 903: SQL III | [Repo][901sql-repo] - [Deck][sql-deck] | - |
-| Lesson | 904: SQL IV (PetDB) | _Coming Soon_ | Needs to be productionalized as this used to be an activity |
+| Lesson | 904: SQL IV (PetDB) | [Repo][904repo] | Needs to be productionalized as this used to be an activity |
 | Lesson | 905: Database Design | [Repo][905repo] - [Deck][905deck] | This is so close to done, will have it soon -Tim |
 | Lesson | 906: PySpark | [Repo][906repo] - [Deck][906deck] | Needs complete and total revamp/overall desperately! |
 | CYOA | Docker | [Repo][cyoa-docker] - [Deck][cyoa-docker-deck] | - |
@@ -247,7 +247,7 @@
 | Lab | Database Lab: Dragon Sword Brigade | [Repo][db-design-lab] | - |
 
 [901sql-repo]: https://git.generalassemb.ly/dsb-main/901-902-903-sql
-[904repo]: TBD
+[904repo]: https://git.generalassemb.ly/dsb-main/904-sql-iv-petdb
 [905repo]: https://git.generalassemb.ly/dsb-main/905-db-design
 [905deck]: https://docs.google.com/presentation/d/1ilX5sIjMAVKysrz9Fp8oqd0-MAd4u0GrPTJueWTDfz8/edit#slide=id.g3dd4fa9b7e_0_239
 [906repo]: https://git.generalassemb.ly/dsb-main/904-lesson-pyspark
