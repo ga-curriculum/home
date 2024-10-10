@@ -238,8 +238,8 @@
 | Lesson | 901: SQL I | [Repo][901sql-repo] - [Deck][sql-deck] | - |
 | Lesson | 902: SQL II | [Repo][901sql-repo] - [Deck][sql-deck] | - |
 | Lesson | 903: SQL III | [Repo][901sql-repo] - [Deck][sql-deck] | - |
-| Lesson | 904: SQL IV (PetDB) | [Repo][904repo] | Needs to be productionalized as this used to be an activity |
-| Lesson | 905: Database Design | [Repo][905repo] - [Deck][905deck] | This is so close to done, will have it soon -Tim |
+| Lesson | 904: SQL IV (PetDB) | [Repo][904repo] | - |
+| Lesson | 905: Database Design | [Repo][905repo] - [Deck][905deck] | - |
 | Lesson | 906: PySpark | [Repo][906repo] - [Deck][906deck] | Needs complete and total revamp/overall desperately! |
 | CYOA | Docker | [Repo][cyoa-docker] - [Deck][cyoa-docker-deck] | - |
 | Lab | SQL Practice Lab | [Repo][sql-practice-lab] | - |
