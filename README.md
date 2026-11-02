@@ -18,20 +18,20 @@
 | BH | Submissions Setup | TBD | - |
 | BH | Breakfast Hour Repo Setup | TBD | - |
 
-[100repo]: https://git.generalassemb.ly/dsb-main/100-lesson-installfest
+[100repo]: https://github.com/ga-curriculum/lesson-installfest
 [100deck]: https://docs.google.com/presentation/d/1njgvR1w_mirvfxR9ZgXSKkq_T8B0ogI08kAu8iL9tFQ/edit#slide=id.p2
-[101repo]: https://git.generalassemb.ly/dsb-main/101-lesson-cl-and-git
+[101repo]: https://github.com/ga-curriculum/lesson-cl-and-git
 [101deck]: https://docs.google.com/presentation/d/1sgylNQKrTjNF1e-OT3D3JsviM0nFXFpoCxmDsqRFPwg/edit#slide=id.p1
-[102repo]: https://git.generalassemb.ly/dsb-main/102-lesson-python-intro
-[103repo]: https://git.generalassemb.ly/dsb-main/103-lesson-python-control-flow
-[104repo]: https://git.generalassemb.ly/dsb-main/104-lesson-functions
-[105repo]: https://git.generalassemb.ly/dsb-main/105-lesson-listcomps-and-more
-[106repo]: https://git.generalassemb.ly/dsb-main/106-lesson-intro-to-pandas
-[107repo]: https://git.generalassemb.ly/dsb-main/107-lesson-data-visualization
-[108repo]: https://git.generalassemb.ly/dsi-tim-staging/108-lesson-eda
-[trial1-lab]: https://git.generalassemb.ly/dsb-main/101-lab-first-trial
-[trial2-lab]: https://git.generalassemb.ly/dsb-main/102-lab-second-trial
-[python-ladder]: https://git.generalassemb.ly/dsb-main/ladder-challenge-python
+[102repo]: https://github.com/ga-curriculum/lesson-python-intro
+[103repo]: https://github.com/ga-curriculum/lesson-python-control-flow
+[104repo]: https://github.com/ga-curriculum/lesson-functions
+[105repo]: https://github.com/ga-curriculum/lesson-listcomps-and-more
+[106repo]: https://github.com/ga-curriculum/lesson-intro-to-pandas
+[107repo]: https://github.com/ga-curriculum/lesson-data-visualization
+[108repo]: https://github.com/ga-curriculum/old-dsb-108-EDA
+[trial1-lab]: https://github.com/ga-curriculum/lab-first-trial
+[trial2-lab]: https://github.com/ga-curriculum/lab-second-trial
+[python-ladder]: https://github.com/ga-curriculum/ladder-challenge-python
 
 ## Unit 2: Decision Science
 | Type | Title | Link(s) | Notes |
@@ -46,22 +46,22 @@
 | Lab | Excel Madness Lab | [Repo][excel-lab] | - |
 | BH | EDA and Viz Practice | TBD | - |
 
-[201repo]: https://git.generalassemb.ly/dsb-main/201-lesson-statsbomb
+[201repo]: https://github.com/ga-curriculum/old-dsb-201-Stats-Bomb
 [201deck]: https://docs.google.com/presentation/d/1nvSNkRgrCmMdax9vt6eEH22ru1E098noc6O6Wsz9cIg/edit#slide=id.p1
-[202repo]: https://git.generalassemb.ly/dsb-main/202-lesson-intro-to-probability
+[202repo]: https://github.com/ga-curriculum/lesson-intro-to-probability
 [202deck]: https://docs.google.com/presentation/d/1pK-pE4O-dceZ2JrSP0W2Y6itgdjCt3GeBg97onZAKmU/edit#slide=id.g8a62fa9fc9_0_0
-[203repo]: https://git.generalassemb.ly/dsb-main/203-discrete-distributions
+[203repo]: https://github.com/ga-curriculum/discrete-distributions
 [203deck]: https://docs.google.com/presentation/d/1wAcO5A_u1jMCumPTDdjeF6UXPjNZAjBJBFp6eaIYY64/edit#slide=id.g27a2ad4f08c_0_0
 [203flash]: https://docs.google.com/presentation/d/1ByqSJ9Cq-qCnh9NLe9AgsOahdodjCDbi7K96kyP4iyo/edit#slide=id.g27a2ad4f08c_0_0
-[204repo]: https://git.generalassemb.ly/dsb-main/204-lesson-continuous-distributions
+[204repo]: https://github.com/ga-curriculum/lesson-continuous-distributions
 [204deck]: https://docs.google.com/presentation/d/1Ylqlqbqga8Sve6x54rflXwuVIGwato5lnUSKIbOKqMs/edit#slide=id.g8a62fa9fc9_0_0
 [204flash]: https://docs.google.com/presentation/d/1NsI8XMdrDENlKzverR6myqIP4QDxRhemUErBLkO2SL8/edit#slide=id.g27a2ad4f08c_0_0 
-[205repo]: https://git.generalassemb.ly/dsb-main/205-lesson-ethics-plagiarism
+[205repo]: https://github.com/ga-curriculum/lesson-ethics-plagiarism
 [205deck]: https://docs.google.com/presentation/d/1pvW8-vCYlg9scgRVFSU2DSnF0tWlxlm_q4oGnMELj0s/edit#slide=id.g400241b3b3_0_53
-[206repo]: https://git.generalassemb.ly/dsb-main/206-clt-and-inference
+[206repo]: https://github.com/ga-curriculum/clt-and-inference
 [206deck]: https://docs.google.com/presentation/d/18bfJ1EHmUa5Zh9OScfQQZPMlkfzi857saS4jBA1_OJY/edit#slide=id.g3dd4fa9b7e_0_239
-[titanic-lab]: https://git.generalassemb.ly/dsb-main/201-lab-pandas-titanic
-[excel-lab]: https://git.generalassemb.ly/dsb-main/lab-excel-madness
+[titanic-lab]: https://github.com/ga-curriculum/lab-pandas-titanic
+[excel-lab]: https://github.com/ga-curriculum/lab-excel-madness
 
 ## Unit 3: Machine Learning Fundamentals
 | Type | Title | Link(s) | Notes |
@@ -84,26 +84,26 @@
 | Lab | Classification Evaluation Lab | [Repo][class-eval-lab] | Old - using redundant data |
 | BH | Tim's Diagram | [Repo][bh-diagram] | - |
 
-[301repo]: https://git.generalassemb.ly/dsb-main/301-302-lesson-linear-regression
+[301repo]: https://github.com/ga-curriculum/302-lesson-linear-regression
 [301deck]: https://docs.google.com/presentation/d/1dLyUWvzMnEgqSg3aCl0Siqoa_f2tGAZJ4vf260UpnIs/edit#slide=id.g3dd4fa9b7e_0_239
-[303repo]: https://git.generalassemb.ly/dsb-main/303-lesson-regression-metrics
-[304repo]: https://git.generalassemb.ly/dsb-main/304-bvt-and-tts
+[303repo]: https://github.com/ga-curriculum/lesson-regression-metrics
+[304repo]: https://github.com/ga-curriculum/bvt-and-tts
 [304deck]: https://docs.google.com/presentation/d/19crs8YEqVr6nWmWtyRMSU025H5xRtAzGT_wp9p35CTI/edit
-[305repo]: https://git.generalassemb.ly/dsb-main/305-lesson-feature-engineering
-[306repo]: https://git.generalassemb.ly/dsb-main/306-lesson-model-workflow
-[reg-lab]: https://git.generalassemb.ly/dsb-main/lab-linear-regression
-[val-lab]: https://git.generalassemb.ly/dsb-main/lab-regression-and-model-validation
-[401repo]: https://git.generalassemb.ly/dsb-main/401-lesson-logistic-regression
+[305repo]: https://github.com/ga-curriculum/lesson-feature-engineering
+[306repo]: https://github.com/ga-curriculum/lesson-model-workflow
+[reg-lab]: https://github.com/ga-curriculum/lab-linear-regression
+[val-lab]: https://github.com/ga-curriculum/lab-regression-and-model-validation
+[401repo]: https://github.com/ga-curriculum/lesson-logistic-regression
 [401deck]: https://docs.google.com/presentation/d/1iNpJ2HtJaiFeg10s5CebfKhvkAE78jpEJzlvs_43fN8/edit#slide=id.g3dd4fa9b7e_0_239
-[402repo]: https://git.generalassemb.ly/dsb-main/402-lesson-knn
-[403repo]: https://git.generalassemb.ly/dsb-main/403-lesson-regularization
-[404repo]: https://git.generalassemb.ly/dsb-main/404-lesson-classification-metrics
+[402repo]: https://github.com/ga-curriculum/lesson-knn
+[403repo]: https://github.com/ga-curriculum/lesson-regularization
+[404repo]: https://github.com/ga-curriculum/lesson-classification-metrics
 [404deck]: https://docs.google.com/presentation/d/1Q3Po1i-zAZjQeqKdxqkYffP3XDm0Y24r976zN05hALQ/edit#slide=id.g1e35665ac91_0_0G
-[405missing-repo]: https://git.generalassemb.ly/dsb-main/405-lesson-missing-data
-[406repo]: https://git.generalassemb.ly/dsb-main/406-lesson-gridsearch-and-pipelines
-[class-lab]: https://git.generalassemb.ly/dsb-main/401-lab-classification-and-regularization
-[class-eval-lab]: https://git.generalassemb.ly/dsb-main/lab-classification-model-evaluation
-[bh-diagram]: https://git.generalassemb.ly/dsb-main/bh-the-diagram
+[405missing-repo]: https://github.com/ga-curriculum/lesson-missing-data
+[406repo]: https://github.com/ga-curriculum/lesson-gridsearch-and-pipelines
+[class-lab]: https://github.com/ga-curriculum/lab-classification-and-regularization
+[class-eval-lab]: https://github.com/ga-curriculum/lab-classification-model-evaluation
+[bh-diagram]: https://github.com/ga-curriculum/bh-the-diagram
 
 ## Unit 4: Advanced Machine Learning
 
@@ -123,21 +123,21 @@
 | BH | .gitignores | TBD | - |
 | BH | NLP Practice | TBD | - |
 
-[501repo]: https://git.generalassemb.ly/dsb-main/501-lesson-html-css
+[501repo]: https://github.com/ga-curriculum/lesson-html-css
 [501deck]: https://docs.google.com/presentation/d/1ZpG6nIn_0dMKeDxF7kCYETqQ4G_AYAOcmaMi3XpruGc/edit#slide=id.p1
-[502repo]: https://git.generalassemb.ly/dsb-main/502-lesson-webscraping
-[503repo]: https://git.generalassemb.ly/dsb-main/503-lesson-apis
+[502repo]: https://github.com/ga-curriculum/lesson-webscraping
+[503repo]: https://github.com/ga-curriculum/lesson-apis
 [503deck]: https://docs.google.com/presentation/d/11-WGzPDAmRtQ9L-XX0OMWevjYTf0VJwPpQsW8s4z5fI/edit
-[504repo]: https://git.generalassemb.ly/dsb-main/504-lesson-nlp-i
+[504repo]: https://github.com/ga-curriculum/lesson-nlp-i
 [504deck]: https://docs.google.com/presentation/d/1xaAOp6clNDFkBMH5DzTOc2vDZqB_N3M8P4HfbMjv3IY/edit#slide=id.g3dd4fa9b7e_0_239
-[505repo]: https://git.generalassemb.ly/dsb-main/505-lesson-nlp-ii
-[506repo]: https://git.generalassemb.ly/dsb-main/506-lesson-flask-basics
+[505repo]: https://github.com/ga-curriculum/lesson-nlp-ii
+[506repo]: https://github.com/ga-curriculum/lesson-flask-basics
 [506deck]: https://docs.google.com/presentation/d/1z40B1d_EE78qL1rElH-GDBppCQpntWiCmCGQbQJ44jE/edit#slide=id.p1
-[507repo]: https://git.generalassemb.ly/dsb-main/507-cloud-computing-world-tour
+[507repo]: https://github.com/ga-curriculum/cloud-computing-world-tour
 [507deck]: https://docs.google.com/presentation/d/1WR1Wyd2Dx5xFHdasYc_jmLZGcjwrh6_I3m4T8cBJwyc/edit#slide=id.g3dd4fa9b7e_0_239
-[508repo]: https://git.generalassemb.ly/dsb-main/508-lesson-object-oriented-programming
-[webscraping-lab]: https://git.generalassemb.ly/dsb-main/lab-webscraping
-[nlp-lab]: https://git.generalassemb.ly/dsb-main/lab-nlp-eda
+[508repo]: https://github.com/ga-curriculum/lesson-object-oriented-programming
+[webscraping-lab]: https://github.com/ga-curriculum/lab-webscraping
+[nlp-lab]: https://github.com/ga-curriculum/lab-nlp-eda
 
 ### Part II: Supervised ML (Usually Week 6)
 | Type | Title | Link(s) | Notes |
@@ -153,21 +153,21 @@
 | BH | NLP Practice II | TBD | - |
 | BH | Git Shenanigans | TBD | - |
 
-[601repo]: https://git.generalassemb.ly/dsb-main/601-lesson-decision-trees
+[601repo]: https://github.com/ga-curriculum/lesson-decision-trees
 [601deck]: https://docs.google.com/presentation/d/1PFUKC1isCfyif3D5ShxPP7bkXOKiCjxDHCKH-HfmR2A/edit
-[602repo]: https://git.generalassemb.ly/dsb-main/602-lesson-bagging
+[602repo]: https://github.com/ga-curriculum/lesson-bagging
 [602deck]: https://docs.google.com/presentation/d/1O_DNakcKmxpeFbZV-dQmcO5ttlMFWqw-ZCCyYocrZlQ/edit#slide=id.g3dd4fa9b7e_0_239
-[603repo]: https://git.generalassemb.ly/dsb-main/603-lesson-random-forest
+[603repo]: https://github.com/ga-curriculum/lesson-random-forest
 [603deck]: https://docs.google.com/presentation/d/1bw-ZOCADEJ9_DDRKBq0VfqVJxH-jSIxQNiERZ6STLyM/edit
-[604repo]: https://git.generalassemb.ly/dsb-main/604-lesson-boosting
+[604repo]: https://github.com/ga-curriculum/lesson-boosting
 [604deck]: https://docs.google.com/presentation/d/1H1f0wfZIX5zZPi89udK_AZq0LCZxHZoTbzP2XQmDGF0/edit#slide=id.g3dd4fa9b7e_0_239
-[605repo]: https://git.generalassemb.ly/dsb-main/605-lesson-support-vector-machines
-[605deck]: https://git.generalassemb.ly/dsb-main/605-lesson-support-vector-machines
-[606repo]: https://git.generalassemb.ly/dsb-main/606-lesson-gradient-descent
+[605repo]: https://github.com/ga-curriculum/lesson-support-vector-machines
+[605deck]: https://github.com/ga-curriculum/lesson-support-vector-machines
+[606repo]: https://github.com/ga-curriculum/lesson-gradient-descent
 [606deck]: https://docs.google.com/presentation/d/1F-nd6wZy6p6Qu5BLytkMonoWZEsJVNMuiOfjSNwUU0Q/edit
-[607repo]: https://git.generalassemb.ly/dsb-main/607-lesson-generalized-linear-models
+[607repo]: https://github.com/ga-curriculum/lesson-generalized-linear-models
 [607deck]: https://docs.google.com/presentation/d/1-Ozt3TP67N_qYceGdN9AhmQ7FpsSk47FGzkbKFcykDU/edit
-[sup-lab]: https://git.generalassemb.ly/dsb-main/lab-supervised-learning-models
+[sup-lab]: https://github.com/ga-curriculum/lab-supervised-learning-models
 
 ### Part III: Unsupervised ML (Usually Week 7)
 | Type | Title | Link(s) | Notes |
@@ -183,17 +183,17 @@
 | BH | Battle of the Clusters | TBD | - |
 | BH | Coding Challenges | TBD | - |
 
-[701repo]: https://git.generalassemb.ly/dsb-main/701-lesson-kmeans
-[702repo]: https://git.generalassemb.ly/dsb-main/702-lesson-dbscan-and-more
+[701repo]: https://github.com/ga-curriculum/lesson-kmeans
+[702repo]: https://github.com/ga-curriculum/lesson-dbscan-and-more
 [702deck]: https://docs.google.com/presentation/d/1Xj1jQ2FeMbJYnYhxoZ2vCMSS1wbioBUh93XRP6CW04E/edit
-[703repo]: https://git.generalassemb.ly/dsb-main/703-lesson-principal-component-analysis
+[703repo]: https://github.com/ga-curriculum/lesson-principal-component-analysis
 [703deck]: https://docs.google.com/presentation/d/1_NIqxE9xl0OjmHBSjNeM5KfGhhmdjBiHH7uhLhWPgko/edit
-[704repo]: https://git.generalassemb.ly/dsb-main/704-lesson-transfer-learning
-[705repo]: https://git.generalassemb.ly/dsb-main/705-lesson-recommender-systems
+[704repo]: https://github.com/ga-curriculum/lesson-transfer-learning
+[705repo]: https://github.com/ga-curriculum/lesson-recommender-systems
 [705deck]: https://docs.google.com/presentation/d/14WckE-9WkMsvdkOWLFcRFa-GmzhURCcDDdHLAaWUQCU/edit#slide=id.g12bb6ae374d_0_0
-[706repo]: https://git.generalassemb.ly/dsb-main/706-lesson-streamlit
-[kmeans-lab]: https://git.generalassemb.ly/dsb-main/lab-kmeans-isotopes
-[pca-lab]: https://git.generalassemb.ly/dsb-main/lab-principal-component-analysis
+[706repo]: https://github.com/ga-curriculum/lesson-streamlit
+[kmeans-lab]: https://github.com/ga-curriculum/lab-kmeans-isotopes
+[pca-lab]: https://github.com/ga-curriculum/lab-principal-component-analysis
 
 ## Unit 5: Deep Learning and Generative AI
 | Type | Title | Link(s) | Notes |
@@ -212,19 +212,19 @@
 | BH | NN Review | TBD | - |
 | BH | NN Coding Challenges | TBD | - |
 
-[801repo]: https://git.generalassemb.ly/dsb-main/801-lesson-intro-nn
+[801repo]: https://github.com/ga-curriculum/lesson-intro-nn
 [801deck]: https://docs.google.com/presentation/d/1OSXRzZOXaLHNstNL9fHo4mzpnNkFH2HjZzES3ernKG4/edit
-[802repo]: https://git.generalassemb.ly/dsb-main/802-lesson-keras
-[803repo]: https://git.generalassemb.ly/dsb-main/803-lesson-regularizing-optimizing-nn
-[804repo]: https://git.generalassemb.ly/dsb-main/804-lesson-cnn
+[802repo]: https://github.com/ga-curriculum/lesson-keras
+[803repo]: https://github.com/ga-curriculum/lesson-regularizing-optimizing-nn
+[804repo]: https://github.com/ga-curriculum/lesson-cnn
 [804deck]: https://docs.google.com/presentation/d/1hCreTSnQbN2Rn75nHxP3iI3-fX2I6NH7Orbu9cg15Go/edit
-[805repo]: https://git.generalassemb.ly/dsb-main/805-lesson-rnn
+[805repo]: https://github.com/ga-curriculum/lesson-rnn
 [805deck]: https://docs.google.com/presentation/d/1hCreTSnQbN2Rn75nHxP3iI3-fX2I6NH7Orbu9cg15Go/edit
-[cyoa-cnn]: https://git.generalassemb.ly/dsb-main/cyoa-cnn-additional-topics
+[cyoa-cnn]: https://github.com/ga-curriculum/cyoa-cnn-additional-topics
 [cyoa-cnn-deck]: https://docs.google.com/presentation/d/1kGvH5AVIJ9nPY-WZETQ1KV5ZhoOU6X_bEWDIMeL31fc/edit
-[cyoa-nn-nlp]: https://git.generalassemb.ly/dsb-main/cyoa-nlp-with-nns
+[cyoa-nn-nlp]: https://github.com/ga-curriculum/cyoa-nlp-with-nns
 [cyoa-nn-nlp-deck]: https://docs.google.com/presentation/d/13Rip2elGktj_Q9UL5z5rSh8JDt8Z_ZkCCkFJOyJN-W0/edit#slide=id.g3dd4fa9b7e_0_239
-[cyoa-tb]: https://git.generalassemb.ly/dsb-main/cyoa-tensorboard
+[cyoa-tb]: https://github.com/ga-curriculum/cyoa-tensorboard
 [cyoa-tb-deck]: https://docs.google.com/presentation/d/19lApjNfZs9Veoc1SOwSdArgZ4F9IlzGNWZI4BCX6YY8/edit#slide=id.g3dd4fa9b7e_0_239
 [ai-deck]: https://docs.google.com/presentation/d/1BzTfO-y2W2w3BuEzRNHQV4cDiROypwbG8h-PzVeGWqg/edit
 [nn-applied-lab]: ?
@@ -246,17 +246,17 @@
 | Lab | SQL Ladder | [Repo][sql-ladder] | Should not be used as a lab! Move to Unit X! |
 | Lab | Database Lab: Dragon Sword Brigade | [Repo][db-design-lab] | - |
 
-[901sql-repo]: https://git.generalassemb.ly/dsb-main/901-902-903-sql
-[904repo]: https://git.generalassemb.ly/dsb-main/904-sql-iv-petdb
+[901sql-repo]: https://github.com/ga-curriculum/902-903-sql
+[904repo]: https://github.com/ga-curriculum/intro-to-sql-4-sqlite-petdb
 [905repo]: https://git.generalassemb.ly/dsb-main/905-db-design
 [905deck]: https://docs.google.com/presentation/d/1ilX5sIjMAVKysrz9Fp8oqd0-MAd4u0GrPTJueWTDfz8/edit#slide=id.g3dd4fa9b7e_0_239
-[906repo]: https://git.generalassemb.ly/dsb-main/904-lesson-pyspark
+[906repo]: https://github.com/ga-curriculum/lesson-pyspark
 [906deck]: https://docs.google.com/presentation/d/1g53r9OlNvatlb87ZMjrz4l2h7a7q3DHSGy9A7_FSru8/edit#slide=id.g3dd4fa9b7e_0_239
 [sql-deck]: https://docs.google.com/presentation/d/1qULk1QU1iMOuX02MnFEkvhF49o3Mjzwb7TLIm8CpLeY/edit
-[sql-practice-lab]: https://git.generalassemb.ly/dsb-main/lab-sql
-[sql-ladder]: https://git.generalassemb.ly/dsb-main/ladder-challenge-sql
-[db-design-lab]: https://git.generalassemb.ly/dsb-main/90X-lab-db-design
-[cyoa-docker]: https://git.generalassemb.ly/dsb-main/cyoa-docker
+[sql-practice-lab]: https://github.com/ga-curriculum/lab-sql
+[sql-ladder]: https://github.com/ga-curriculum/ladder-challenge-sql
+[db-design-lab]: https://github.com/ga-curriculum/x-lab-db-design
+[cyoa-docker]: https://github.com/ga-curriculum/cyoa-docker
 [cyoa-docker-deck]: https://docs.google.com/presentation/d/1aq0QsbEMJ8reZUVz5o-YRmejHyIWU4Cj-qSUDX0Y6YQ/edit
 
 ### Part II: Remaining Course Miscellania (Sparsely across Week 10 and 11, mostly technically Units 1 and 3)
@@ -270,17 +270,17 @@
 | Lab | Timeseries Lab | [Repo][ts-lab] | - |
 | Lab | R Lab | [Repo][r-lab] | - |
 
-[1001repo]: https://git.generalassemb.ly/dsb-main/1001-ts-i-eda
+[1001repo]: https://github.com/ga-curriculum/ts-i-eda
 [1001deck]: https://docs.google.com/presentation/d/1D-XKaCk6KhLn1LiBTAw8UOznni6mlCYmTcypGuihrRw/edit#slide=id.g3dd4fa9b7e_0_239
-[1002repo]: https://git.generalassemb.ly/dsb-main/1002-ts-ii-modeling
+[1002repo]: https://github.com/ga-curriculum/ts-ii-modeling
 [1002deck]: https://docs.google.com/presentation/d/1YUbaFL2EMegP9gmwIWwlV_pBlGGlDBPAGCbAoXCQl0o/edit
-[1003repo]: https://git.generalassemb.ly/dsb-main/1003-ts-iii-extras
+[1003repo]: https://github.com/ga-curriculum/ts-iii-extras
 [1003deck]: https://docs.google.com/presentation/d/1hAAXYxwLo35Telk8Dr8BvxNdGPiPny1D_OW8_tGnH5A/edit
-[1005-bayes-repo]: https://git.generalassemb.ly/dsb-main/1005-bayes-one-shot
+[1005-bayes-repo]: https://github.com/ga-curriculum/bayes-one-shot
 [1005-bayes-deck]: https://docs.google.com/presentation/d/1iLWp8Qw8vSSI0sZ9IoBhAjAGzu2XRti02Poq_z3LeVI/edit#slide=id.g3dd4fa9b7e_0_239
-[1005-r-repo]: https://git.generalassemb.ly/dsb-main/1005-r-fest
-[ts-lab]: https://git.generalassemb.ly/dsb-main/lab-time-series-arima
-[r-lab]: https://git.generalassemb.ly/dsb-main/lab-r
+[1005-r-repo]: https://github.com/ga-curriculum/r-fest
+[ts-lab]: https://github.com/ga-curriculum/lab-time-series-arima
+[r-lab]: https://github.com/ga-curriculum/lab-r
 
 ## Unit X: Standalone Lessons and Activities
 | Type | Title | Link(s) | Notes |
@@ -288,8 +288,8 @@
 | BH | File IO, JSONs, Pickling | [Repo][bh-file-io] | - |
 | CYOA | Algorithms and Data Structures | [Repo][cyoa-algo] - [Deck][cyoa-algo-deck] | - |
 
-[bh-file-io]: https://git.generalassemb.ly/dsb-main/bh-file-io
-[cyoa-algo]: https://git.generalassemb.ly/dsb-main/cyoa-algo-data-structures
+[bh-file-io]: https://github.com/ga-curriculum/bh-file-io
+[cyoa-algo]: https://github.com/ga-curriculum/cyoa-algo-data-structures
 [cyoa-algo-deck]: https://docs.google.com/presentation/d/1Wa-cD37rXZorg2s1R5yiJeIahYhL2ypwqi8-iud61wo/edit
 
 ## CYOA: Choose Your Own Adventure Lessons
@@ -305,14 +305,14 @@ When forking CYOA lessons into your DSB org, if you're going to fork all of them
 | CYOA | Docker | [Repo][cyoa-docker] - [Deck][cyoa-docker-deck] | - |
 | CYOA | Algorithms and Data Structures | [Repo][cyoa-algo] - [Deck][cyoa-algo-deck] | - |
 
-[cyoa-omnibus]: https://git.generalassemb.ly/dsb-main/cyoa-omnibus
-[cyoa-cnn]: https://git.generalassemb.ly/dsb-main/cyoa-cnn-additional-topics
+[cyoa-omnibus]: https://github.com/ga-curriculum/cyoa-omnibus
+[cyoa-cnn]: https://github.com/ga-curriculum/cyoa-cnn-additional-topics
 [cyoa-cnn-deck]: https://docs.google.com/presentation/d/1kGvH5AVIJ9nPY-WZETQ1KV5ZhoOU6X_bEWDIMeL31fc/edit
-[cyoa-nn-nlp]: https://git.generalassemb.ly/dsb-main/cyoa-nlp-with-nns
+[cyoa-nn-nlp]: https://github.com/ga-curriculum/cyoa-nlp-with-nns
 [cyoa-nn-nlp-deck]: https://docs.google.com/presentation/d/13Rip2elGktj_Q9UL5z5rSh8JDt8Z_ZkCCkFJOyJN-W0/edit#slide=id.g3dd4fa9b7e_0_239
-[cyoa-tb]: https://git.generalassemb.ly/dsb-main/cyoa-tensorboard
+[cyoa-tb]: https://github.com/ga-curriculum/cyoa-tensorboard
 [cyoa-tb-deck]: https://docs.google.com/presentation/d/19lApjNfZs9Veoc1SOwSdArgZ4F9IlzGNWZI4BCX6YY8/edit#slide=id.g3dd4fa9b7e_0_239
-[cyoa-docker]: https://git.generalassemb.ly/dsb-main/cyoa-docker
+[cyoa-docker]: https://github.com/ga-curriculum/cyoa-docker
 [cyoa-docker-deck]: https://docs.google.com/presentation/d/1aq0QsbEMJ8reZUVz5o-YRmejHyIWU4Cj-qSUDX0Y6YQ/edit
-[cyoa-algo]: https://git.generalassemb.ly/dsb-main/cyoa-algo-data-structures
+[cyoa-algo]: https://github.com/ga-curriculum/cyoa-algo-data-structures
 [cyoa-algo-deck]: https://docs.google.com/presentation/d/1Wa-cD37rXZorg2s1R5yiJeIahYhL2ypwqi8-iud61wo/edit
